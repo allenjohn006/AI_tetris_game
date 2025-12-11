@@ -1,3 +1,4 @@
+
 ## 🎮 Smart AI Tetris
 
 A modern Tetris game enhanced with a heuristic-search AI assistant that helps players learn smarter strategies.
@@ -71,3 +72,4 @@ Collision detection
 Hard drop logic
 Line-clearing system
 Simulated rotations & placements
+
