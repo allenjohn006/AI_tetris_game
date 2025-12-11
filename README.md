@@ -8,6 +8,18 @@ The AI evaluates all possible moves (rotations + columns) using a heuristic scor
 
 Unlike auto-playing AIs, the player must still rotate and drop the piece themselves — making this a learning tool, not an autopilot.
 
+## Screenshots
+
+### Full UI
+![UI](Images/UI.png)
+
+### AI Helper Suggestion
+![AI Helper](Images/AI_Helper.png)
+
+### Game Over Screen
+![Game Over](Images/Game_Over.png)
+
+
 ## How the AI Helper Works
 
 Every time a new piece appears (or the board changes), the AI:
