@@ -50,26 +50,26 @@ Understand Tetris evaluation functions used in real bots
 ## Gameplay Controls
 
 **Key**	   **Action**
-← →	        Move left/right
-↑ or Space	Rotate piece
-↓	        Soft drop
-Enter	    Hard drop
-P	        Pause
-T	        Toggle AI Helper
-New Game 	Restart it
+← →	        Move left/right,
+↑ or Space	Rotate piece,
+↓	        Soft drop,
+Enter	    Hard drop,
+P	        Pause,
+T	        Toggle AI Helper,
+New Game 	Restart it,
 
 ## Tech Stack
 
 **Frontend:**
-React 18
-Vite
-Tailwind CSS
-Lucide Icons
+React 18,
+Vite,
+Tailwind CSS,
+Lucide Icons,
 
 **AI / Game Logic:**
-Custom heuristic evaluation
-Collision detection
-Hard drop logic
-Line-clearing system
-Simulated rotations & placements
+Custom heuristic evaluation,
+Collision detection,
+Hard drop logic,
+Line-clearing system,
+Simulated rotations & placements,
 
